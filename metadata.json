@@ -1,0 +1,6 @@
+{
+  "name": "Fort Worth Threading Redesign",
+  "description": "Modern and elegant redesign concept for Fort Worth Threading salon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
